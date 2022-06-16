@@ -8,6 +8,6 @@
 </head>
 <body>
 	@yield('content')
-	<nav>PRUEBA DE UN NAV</nav>
+	<nav>PRUEBA DE UN NAV WEB</nav>
 </body>
 </html>
